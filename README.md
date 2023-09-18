@@ -3,11 +3,12 @@ The Social Media API is a backend service built using Node.js, Express, and Mong
 
 Key Features:
 
-User Registration and Authentication
-Create and Manage Posts
-Like and Dislike Posts
-Update User Profile Information
-Basic Error Handling and Validation
+User Registration and Authentication.
+Create and Manage Posts.
+Like and Dislike Posts.
+Update User Profile Information.
+Basic Error Handling and Validation.
+
 Technologies Used:
 
 Node.js
@@ -16,7 +17,9 @@ MongoDB Atlas
 Endpoints:
 
 /api/auth - Handles user registration and authentication.
+
 /api/posts - Manages posts creation, likes, and dislikes.
+
 /api/users - Manages user profiles and interactions.
 
 
